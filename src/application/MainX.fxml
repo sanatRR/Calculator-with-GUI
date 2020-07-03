@@ -24,17 +24,17 @@
       <Line endX="200.0" startX="-100.0" />
       <HBox prefHeight="50.0" prefWidth="300.0">
          <children>
-            <Button fx:id="b9" mnemonicParsing="false" onAction="#fun1" prefWidth="50.0" text="9">
+            <Button fx:id="b9" mnemonicParsing="false" onAction="#fun1" prefWidth="50.0" text="7">
                <HBox.margin>
                   <Insets left="20.0" top="10.0" />
                </HBox.margin>
             </Button>
-            <Button fx:id="b7" mnemonicParsing="false" onAction="#fun1" prefWidth="50.0" text="7">
+            <Button fx:id="b7" mnemonicParsing="false" onAction="#fun1" prefWidth="50.0" text="8">
                <HBox.margin>
                   <Insets left="20.0" top="10.0" />
                </HBox.margin>
             </Button>
-            <Button fx:id="b8" mnemonicParsing="false" onAction="#fun1" prefWidth="50.0" text="8">
+            <Button fx:id="b8" mnemonicParsing="false" onAction="#fun1" prefWidth="50.0" text="9">
                <HBox.margin>
                   <Insets left="20.0" top="10.0" />
                </HBox.margin>
